@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VatLibrary", "VatLibrary\VatLibrary.csproj", "{FBC79E74-EE3D-41CB-80B1-413E9DBE7D33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VatLibrary.Data", "VatLibrary.Data\VatLibrary.Data.csproj", "{6597752A-B3A7-498D-9D8F-EDA2A5CFC47B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FBC79E74-EE3D-41CB-80B1-413E9DBE7D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC79E74-EE3D-41CB-80B1-413E9DBE7D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC79E74-EE3D-41CB-80B1-413E9DBE7D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6597752A-B3A7-498D-9D8F-EDA2A5CFC47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6597752A-B3A7-498D-9D8F-EDA2A5CFC47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6597752A-B3A7-498D-9D8F-EDA2A5CFC47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6597752A-B3A7-498D-9D8F-EDA2A5CFC47B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
